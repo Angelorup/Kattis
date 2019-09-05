@@ -1,0 +1,4 @@
+def encoded
+end
+
+encoded
